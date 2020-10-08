@@ -1,2 +1,2 @@
 # hello-world
-short-description
+Hi! My name is John.  I am studying cyber security.
